@@ -1,5 +1,4 @@
---Aqui vou colocar os inserts da tabela.
---INSERT DE CLIENTES DE ACORDO COM O FIREBIRD.
+
 INSERT INTO TBL_CLIENTES (ID_CLIENTE, NOME, CPF_CNPJ, ENDERECO, TELEFONE, EMAIL, DATA_NASCIMENTO, HISTORICO_COMPRAS, PREFERENCIAS, ATIVO)
 VALUES (1, 'Ana Clara Silva', '123.456.789-00', 'Rua das Flores, 123', '(11) 91234-5678', 'ana.silva@gmail.com', '1990-05-14', 'Comprou um notebook e um mouse em fevereiro.', 'Eletrônicos', 'S');
 
